@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Pushster&display=swap');
+
+html
+{
+    font-family: 'Pushster', cursive;
+    text-align: center;
+    background: background: rgb(159,29,54);
+background: linear-gradient(90deg, rgba(159,29,54,1) 6%, rgba(9,51,121,1) 60%, rgba(43,232,220,1) 100%);
+}
